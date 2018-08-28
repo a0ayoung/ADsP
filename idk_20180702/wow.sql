@@ -1,0 +1,1 @@
+mercSELECT * FROM mydb.상품구매정보;

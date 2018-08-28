@@ -1,0 +1,24 @@
+director : 이사 A, B, C, D, E
+interview : 면접점수
+
+director,interview
+A,76
+A,64
+A,85
+A,75
+B,58
+B,75
+B,81
+B,66
+C,49
+C,63
+C,62
+C,46
+D,74
+D,71
+D,85
+D,90
+E,66
+E,74
+E,81
+E,79

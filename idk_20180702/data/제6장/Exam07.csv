@@ -1,0 +1,20 @@
+block : 논 B1, B2, B3
+treatment : 비료종류 A1, A2, A3, A4. A5
+product : 생산량
+
+block,treatment,product
+B1,A1,15.9
+B1,A2,13.3
+B1,A3,12.5
+B1,A4,13.2
+B1,A5,16.5
+B2,A1,15.2
+B2,A2,12.2
+B2,A3,11.1
+B2,A4,14.3
+B2,A5,19.5
+B3,A1,16
+B3,A2,10.1
+B3,A3,9.3
+B3,A4,11
+B3,A5,14.2

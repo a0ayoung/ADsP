@@ -1,0 +1,25 @@
+feed : 사료종류
+weigh : 체중의 증가량
+
+feed	weight
+A	30
+A	35
+A	28
+A	29
+A	25
+A	29
+A	34
+B	25
+B	31
+B	28
+B	27
+B	23
+B	24
+B	31
+C	20
+C	16
+C	17
+C	18
+C	18
+C	17
+C	20
